@@ -118,10 +118,7 @@ async function run() {
             next();
         }
     
-
-
-
-
+//
 
 
 
@@ -149,7 +146,6 @@ async function run() {
     if (req.query.isRemote) {
         query.isRemote = req.query.isRemote
     }
-
 
 
     // company related query
